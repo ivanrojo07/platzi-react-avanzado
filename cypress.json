@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://petgram-ivan-ivanrojo07.vercel.app/",
+    "chromeWebSecurity": false,
+    "viewportWidth": 500,
+    "viewportHeight": 800
+
+}
